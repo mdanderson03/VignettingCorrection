@@ -1,0 +1,2 @@
+a647_corrected.tif:_slice_0 Brightness_initial_guess
+a647_corrected.tif:_slice_0 Contrast_0.7 data
